@@ -1,0 +1,8 @@
+{
+  "announce": false,
+  "maxplayers": 16,
+  "name": "Test — Private RAGE:MP Server",
+  "gamemode": "whitelist",
+  "bind": "0.0.0.0",
+  "port": 22005
+}
